@@ -26,10 +26,12 @@ CONFIG += c++11
 
 SOURCES += \
         main.cpp \
-        MainWindow.cpp
+        MainWindow.cpp \
+    Yolo.cpp
 
 HEADERS += \
-        MainWindow.h
+        MainWindow.h \
+    Yolo.h
 
 FORMS += \
         MainWindow.ui
